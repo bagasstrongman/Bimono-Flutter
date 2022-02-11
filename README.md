@@ -1,4 +1,4 @@
-# flutter_kulidigital_app
+# flutter_bimono_clone
 
 A new Flutter project.
 
