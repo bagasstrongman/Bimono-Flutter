@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+When you running in emulator android, recommended using 6,3 inci (1440 x 3040 pixel) mobile screen
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
