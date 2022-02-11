@@ -1,5 +1,7 @@
 # flutter_bimono_clone
 
+[![Preview-Bimono.jpg](https://i.postimg.cc/QNYN5h7P/Preview-Bimono.jpg)](https://postimg.cc/9zTjH3Jt)
+
 A new Flutter project.
 
 ## Getting Started
