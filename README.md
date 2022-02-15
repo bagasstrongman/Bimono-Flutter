@@ -2,6 +2,10 @@
 
 [![Preview-Bimono.jpg](https://i.postimg.cc/QNYN5h7P/Preview-Bimono.jpg)](https://postimg.cc/9zTjH3Jt)
 
+| Main Page     | Trading Page      |  
+| ------------- | -------------    | 
+| [![Screenshot-1644894012.png](https://i.postimg.cc/jd5R7y6V/Screenshot-1644894012.png)](https://postimg.cc/NL3hh9Pb) |  [![Screenshot-1644894028.png](https://i.postimg.cc/R0cmBdmt/Screenshot-1644894028.png)](https://postimg.cc/NyfS815G) |
+
 A new Flutter project.
 
 ## Getting Started
