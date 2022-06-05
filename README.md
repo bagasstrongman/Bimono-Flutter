@@ -8,8 +8,6 @@
 
 Font use in this App Concept : [Rowdies](https://fonts.google.com/specimen/Rowdies?preview.size=38&query=rowdies) & [Source Serif](https://fonts.google.com/specimen/Source+Serif+Pro?preview.size=38&query=source+serif)
 
-A new Flutter project.
-
 ## Getting Started
 
 When you running in emulator android, recommended using 6,3 inci (1440 x 3040 pixel) mobile screen
